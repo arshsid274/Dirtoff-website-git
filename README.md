@@ -225,6 +225,6 @@ This is a client project. For modifications or updates, please contact the devel
 
 ---
 
-**Developed by**: Shine Infosolutions  
+
 **Project Type**: Static Website  
 **Last Updated**: 2025
